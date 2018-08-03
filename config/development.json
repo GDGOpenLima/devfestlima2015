@@ -1,0 +1,15 @@
+{
+  "basepath": "/",
+  "url": "https://devfest2015.firebaseapp.com/",
+  "analytics": "UA-43643469-9",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AIzaSyAfb2YvqRX_9TXPNCTPwm_RI7xlTeUvWn0",
+    "authDomain": "devfestlima2015.firebaseapp.com",
+    "databaseURL": "https://devfestlima2015.firebaseio.com",
+    "projectId": "devfestlima2015",
+    "storageBucket": "devfestlima2015.appspot.com",
+    "messagingSenderId": "55142096983"
+  },
+  "googleMapApiKey": "AIzaSyDhchIRTqkAOsMetFdsDbWhbCUaqHUo8No"
+}
